@@ -1,0 +1,5 @@
+algo_fractales_extras.py sier1.sl 8 dualidad.svg
+algo_fractales_extras.py arbol1.sl 6 arbol_colorido.svg
+algo_fractales_extras.py hex.sl 4 hexagon.svg
+
+

@@ -1,0 +1,4 @@
+120
+a1Fb2-Ga1-Gb2-
+F Fa2-Gb1+Fa1+Gb1-Fa2
+G a1Gb2G
